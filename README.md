@@ -1,1 +1,1 @@
-# e-commerce_with_redux
+e-commerce project
